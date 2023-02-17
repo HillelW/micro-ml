@@ -1,2 +1,3 @@
-# transformer
-implementations of some ideas related to the transformer architecture
+# micro-ml
+
+simple implementations of some machine learning ideas.
